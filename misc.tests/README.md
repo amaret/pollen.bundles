@@ -1,0 +1,1 @@
+This is a collection of random pieces of code that came into being sometime in the development of pollen. None of it is guaranteed to work. But some of it may contain things that will give the person learning pollen an insight into something.
