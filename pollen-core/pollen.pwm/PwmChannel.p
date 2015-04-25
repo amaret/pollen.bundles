@@ -1,3 +1,8 @@
+!-- 
+  Copyright Amaret, Inc 2011-2015
+  See https://github.com/amaret/pollen/blob/master/LICENSE
+--!
+
 from pollen.event import HandlerProtocol as HP
 from pollen.event import Event
 

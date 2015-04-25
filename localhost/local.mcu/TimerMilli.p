@@ -1,3 +1,8 @@
+!-- 
+  Copyright Amaret, Inc 2011-2015
+  See https://github.com/amaret/pollen/blob/master/LICENSE
+--!
+
 package local.mcu
 
 from pollen.event import HandlerProtocol as HP

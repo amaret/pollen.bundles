@@ -1,3 +1,9 @@
+!-- 
+  Copyright Amaret, Inc 2011-2015
+  See https://github.com/amaret/pollen/blob/master/LICENSE
+--!
+
+
 import Cpu
 
 meta { string twiInterface }        // on xmega16c4 this can be TWIC or TWIE

@@ -1,3 +1,8 @@
+!-- 
+  Copyright Amaret, Inc 2011-2015
+  See https://github.com/amaret/pollen/blob/master/LICENSE
+--!
+
 !--
 
   This is an example of a pin driver. It implements the GPIO protocol for pin A0
