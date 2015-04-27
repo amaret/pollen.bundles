@@ -4,6 +4,7 @@
 --!
 
 from local.mcu import Mcu 
+from local.mcu import Lifecycle
 from local.mcu import TimerMilli
 from local.mcu import GlobalInterrupts
 from local.mcu import ConsolePrint
@@ -13,8 +14,6 @@ from Mcu import Pin1
 from Mcu import Pin2
 from Mcu import Pin3 as ButtonPin
 
-from local.parts import ColorLed
-
 from pollen.parts import LedMeta{false} as Led0
 from pollen.parts import LedMeta{false} as Led1
 from pollen.parts import LedMeta{false} as Led2
@@ -22,7 +21,6 @@ from pollen.parts import LedMeta{false} as Led2
 from pollen.event import Newsroom
 from pollen.time import TimerManager
 
-import Lifecycle
 
 composition LocalHost extends Mcu {
 
@@ -46,8 +44,6 @@ composition LocalHost extends Mcu {
   export Led0
   export Led1
   export Led2
-
-  export ColorLed
 
   export ButtonPin
 }
