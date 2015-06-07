@@ -1,6 +1,4 @@
 !-- 
-  Copyright Amaret, Inc 2011-2015
-  See https://github.com/amaret/pollen/blob/master/LICENSE
 
   List data structure implemented as an array of fixed length. 
   

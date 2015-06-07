@@ -1,9 +1,5 @@
 !-- 
 
-  Copyright Amaret, Inc 2011-2015
-  See https://github.com/amaret/pollen/blob/master/LICENSE
-
-
   First-in-first-out (FIFO) data structure implemented as an array of fixed length. 
 
   This data structure holds a collection of instances of the type specified. 

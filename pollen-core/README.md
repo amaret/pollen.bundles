@@ -1,1 +1,0 @@
-This is the core pollen language library.  It is a collection of bundles that contain packages of pollen code. There are lots of useful pieces of code in the core library and our intention is to grow it to be a stable and highly resourceful set of utilities and components for building great applications.

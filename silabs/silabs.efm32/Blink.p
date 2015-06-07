@@ -1,7 +1,3 @@
-!-- 
-  Copyright Amaret, Inc 2011-2015
-  See https://github.com/amaret/pollen/blob/master/LICENSE
---!
 
 import EFM32ZG108 as Mcu
 //import EFM32ZG222 as Mcu

@@ -1,7 +1,3 @@
-!-- 
-  Copyright Amaret, Inc 2011-2015
-  See https://github.com/amaret/pollen/blob/master/LICENSE
---!
 
 // NOTICE: hard coded to import from a specific MCU for now, will be refactored to be more generic. 
 //        Needs to implement the I2CProtocol
